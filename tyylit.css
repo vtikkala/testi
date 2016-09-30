@@ -1,0 +1,43 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+  	background-color: #efc;
+  	margin-left: 4em;
+  	margin-right: 20%;
+}
+
+
+body#eka a#eka
+	{
+		font-weight: bold;
+	}
+
+body#toka a#toka
+	{
+		font-weight: bold;
+	}
+
+nav {
+	background-color: #00ff00;	
+	padding: 0cm 1cm 0cm 1cm;
+
+}
+
+h1.eka {
+  	border-bottom: thin solid gray;
+}
+
+img.vasen {
+	float: left;
+}
+
+img.oikea {
+	float: right;
+}
+
+
+p {
+	margin: 10px 10px 10px 10px;
+}
+
+
+
